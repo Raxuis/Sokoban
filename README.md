@@ -36,20 +36,6 @@ A Sokoban game in C which I made for a final project in College.
 
 ---
 
-
-## 📍 Overview
-
-HTTPStatus Exception: 401
-
----
-
-## 📦 Features
-
-HTTPStatus Exception: 401
-
----
-
-
 ## 📂 Repository Structure
 
 ```sh
@@ -70,51 +56,6 @@ HTTPStatus Exception: 401
 
 
 ---
-
-## ⚙️ Modules
-
-<details closed><summary>Root</summary>
-
-| File                                                             | Summary                   |
-| ---                                                              | ---                       |
-| [Makefile](https://github.com/Raxuis/Sokoban/blob/main/Makefile) | HTTPStatus Exception: 401 |
-| [main.c](https://github.com/Raxuis/Sokoban/blob/main/main.c)     | HTTPStatus Exception: 401 |
-
-</details>
-
-<details closed><summary>Inc</summary>
-
-| File                                                                   | Summary                   |
-| ---                                                                    | ---                       |
-| [sokoban.h](https://github.com/Raxuis/Sokoban/blob/main/inc/sokoban.h) | HTTPStatus Exception: 401 |
-
-</details>
-
-<details closed><summary>Srcs</summary>
-
-| File                                                                      | Summary                   |
-| ---                                                                       | ---                       |
-| [game.c](https://github.com/Raxuis/Sokoban/blob/main/srcs/game.c)         | HTTPStatus Exception: 401 |
-| [moves.c](https://github.com/Raxuis/Sokoban/blob/main/srcs/moves.c)       | HTTPStatus Exception: 401 |
-| [position.c](https://github.com/Raxuis/Sokoban/blob/main/srcs/position.c) | HTTPStatus Exception: 401 |
-| [map.c](https://github.com/Raxuis/Sokoban/blob/main/srcs/map.c)           | HTTPStatus Exception: 401 |
-
-</details>
-
----
-
-## 🚀 Getting Started
-
-***Dependencies***
-
-Please ensure you have the following dependencies installed on your system:
-
-`- ℹ️ Dependency 1`
-
-`- ℹ️ Dependency 2`
-
-`- ℹ️ ...`
-
 ### 🔧 Installation
 
 1. Clone the Sokoban repository:
@@ -126,33 +67,11 @@ git clone https://github.com/Raxuis/Sokoban
 ```sh
 cd Sokoban
 ```
-
-3. Install the dependencies:
-```sh
-gcc -o myapp main.c
-```
-
 ### 🤖 Running Sokoban
 
 ```sh
 ./myapp
 ```
-
-### 🧪 Tests
-```sh
-/* No common unit test framework in C */
-```
-
----
-
-
-## 🛣 Roadmap
-
-> - [X] `ℹ️  Task 1: Implement X`
-> - [ ] `ℹ️  Task 2: Implement Y`
-> - [ ] `ℹ️ ...`
-
-
 ---
 
 ## 🤝 Contributing
